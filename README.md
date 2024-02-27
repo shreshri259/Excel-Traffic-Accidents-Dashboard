@@ -24,10 +24,6 @@ The dashboard leverages the capabilities of Microsoft Excel to process, analyze,
 5. **Insights:** Switch to the "Insights" tab to access some extracted insights. Also, utilize the information presented in the dashboard to make data-driven decisions related to marketing strategies and overall business performance.
 
 
-## Acknowledgements
-
- - [Data Tutorials - YouTube](https://www.youtube.com/@datatutorials1/videos)
- - [Excel Portfolio Project - Interactive Dashboard - From Start to Finish](https://www.youtube.com/watch?v=XeWfLNe3moM)
 ### Disclaimer
 
 This dashboard is for demonstration purposes only and does not use real traffic accident data. The data used are placeholders and should not be considered accurate representations of actual accident statistics.
